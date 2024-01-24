@@ -1,3 +1,8 @@
+Why this fork ?
+Once upon a time, I had a fix to make.
+That time has passed.
+virtme-ng has replaced it for me.
+
 What is virtme?
 ===============
 
